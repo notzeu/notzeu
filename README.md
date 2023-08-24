@@ -56,14 +56,15 @@
         <h1>Olá, eu sou o Eliseu Sanchez Pannuci</h1>
     </header>
     <div class="container">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Icon" class="profile-img">
         <p>Tenho 18 anos e estudo programação. Atualmente, estou trabalhando como suporte técnico da Dell.</p>
         <p>Estou aprendendo a mexer na UE5 usando as blueprints. Atualmente, estou fazendo uma base de jogo de terror no qual o jogador precisa recuperar os amuletos perdidos numa casa assombrada (bem original, haha).</p>
         <p>Estou também aprendendo HTML e CSS.</p>
         <ul>
-            <li><img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/5.15.0/programming.svg" alt="Programming Icon"> Estudando programação</li>
-            <li><img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/5.15.0/epicgames.svg" alt="Game Development Icon"> Desenvolvendo um jogo de terror na UE5</li>
-            <li><img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/5.15.0/html5.svg" alt="Web Development Icon"> Aprendendo HTML e CSS</li>
+            <li> Estudando programação</li>
+            <li> Desenvolvendo um jogo de terror na UE5</li>
+            <li> Cursando HTML e CSS</li>
+            <li> Inglês intermediário</li>
+            <li> Curso técico de TI. Conclusão - (Julho de 2024)</li>
         </ul>
     </div>
 </body>
